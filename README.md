@@ -1,13 +1,13 @@
 # Insurance Cost Prediction (EDA + Linear Regression)
 
-## 📌 Project Overview
+##  Project Overview
 This project performs Exploratory Data Analysis (EDA), data preprocessing, feature engineering, and builds a Linear Regression model to predict medical insurance charges.
 
-## 📊 Dataset
+##  Dataset
 - insurance.csv
 - Features include: age, sex, bmi, children, smoker, region, charges
 
-## 🔍 Steps Performed
+##  Steps Performed
 1. Exploratory Data Analysis (EDA)
 2. Data Cleaning
 3. Feature Engineering (BMI categories)
@@ -22,11 +22,11 @@ This project performs Exploratory Data Analysis (EDA), data preprocessing, featu
    - R² Score
    - Adjusted R²
 
-## 📈 Results
+##  Results
 - R² Score: 0.8040712413347118
 - Adjusted R²: 0.7987962362937232
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
